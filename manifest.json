@@ -1,0 +1,18 @@
+{
+  "name": "Super Fast App Shell",
+  "short_name": "Super Fast",
+  "start_url": ".",
+  "theme_color": "#311B92",
+  "display": "standalone",
+  "background_color": "#fff",
+  "description": "Fastest and smart app shell",
+  "icons": [
+    {
+      "src": "4497c4c768436ccd9881e5941a90bb13.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "dir": "ltr",
+  "lang": "en"
+}
